@@ -1,0 +1,10 @@
+flask
+flask-sqlalchemy
+python-dotenv
+langchain
+openai
+faiss-cpu
+redis
+rq
+requests
+beautifulsoup4
